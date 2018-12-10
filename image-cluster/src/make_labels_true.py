@@ -6,7 +6,7 @@ from config import *
 
 def make_labels_true():
     """
-    이미지 폴더의 파일을 분석하여 정답 레이블(labels_true)을 생성하는 함수입니다.
+    이미지 폴더의 파일명을 분석하여 정답 레이블(labels_true)을 생성하는 함수입니다.
     정답 레이블에 대응하는 이미지 파일 경로는 IMG_PATHS 에 저장된다.
     """
     # regex rule to extract true labels
