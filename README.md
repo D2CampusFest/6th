@@ -2,6 +2,8 @@
 
 ## 축하합니다! 제 6회 D2 CAMPUS FEST 결승진출팀 안내
 
+**[프로젝트 소개 및 진행 현황판](https://d2campusfest6th-2019.herokuapp.com/)**
+
 프로젝트|설명|라이선스
 -|-|-
 [aws-interface](https://github.com/hubaimaster/aws-interface)|클라우드 서비스 추상화 인터페이스 제공|Apache-2.0|
