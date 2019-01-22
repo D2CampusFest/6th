@@ -59,16 +59,5 @@ if __name__ == '__main__':
     
     labels_pred2 가 좀 더 정확하기 때문에 점수가 높게 평가 됩니다.
     """
-    labels_pred1 = "labels_pred1.txt"
-    labels_pred2 = "labels_pred2.txt"
-
-    score1 = evaluation(os.path.join(DATA_DIR, LABELS_TRUE + ".txt"), os.path.join(DATA_DIR, labels_pred1))
-    score2 = evaluation(os.path.join(DATA_DIR, LABELS_TRUE + ".txt"), os.path.join(DATA_DIR, labels_pred2))
-
-    print("Score for %s: %s" % (labels_pred1, score1))
-    print("Score for %s: %s" % (labels_pred2, score2))
-
-
-# if __name__ == '__main__':
-#     score = evaluation(os.path.join(DATA_DIR, LABELS_TRUE + ".txt"), os.path.join(DATA_DIR, LABELS_PRED + ".txt"))
-#     print("Rand Index: %s" % score)
+    score = evaluation(os.path.join(DATA_DIR, LABELS_TRUE + ".txt"), os.path.join(DATA_DIR, LABELS_PRED + ".txt"))
+    print("Rand Index: %s" % score)
