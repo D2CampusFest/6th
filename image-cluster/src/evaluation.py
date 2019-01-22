@@ -1,3 +1,6 @@
+"""
+정답 레이블과 예측 레이블 파일을 읽어서 Adjusted Rand index를 계산하여 반환하는 모듈입니다.
+"""
 import os
 import numpy as np
 from sklearn import metrics
@@ -34,7 +37,6 @@ def evaluation(labels_true_path, labels_pred_path):
 
     참고: https://scikit-learn.org/stable/modules/clustering.html#adjusted-rand-index
     """
-
     # loading labels
     labels_true = np.loadtxt(labels_true_path, dtype=str)
     labels_pred = np.loadtxt(labels_pred_path, dtype=str)
