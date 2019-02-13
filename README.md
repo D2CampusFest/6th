@@ -14,7 +14,7 @@
 [mlfe](https://github.com/shi510/mlfe)|C++ 기반의 딥러닝 라이브러리|MIT|
 [MPSec](https://github.com/MPSec)|MPTCP를 활용하여 네트워크 장애 상황에 효과적으로<br/> 대처가 가능한 고신뢰 네트워킹을 제공|GPL-3.0|
 [soma](https://github.com/PLUS-POSTECH/soma)|보안 및 해킹 문제 관리도구|MIT/Apache-2.0|
-[vinbero](https://github.com/vinbero)|모듈형 서버|MPLv2|
+[vinbero](https://github.com/vinbero)|모듈형 서버|MPL-2.0|
 [2019-6thD2CF-Image-Cluster](https://github.com/sunnys-lab/2019-6thD2CF-Image-Cluster)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
 [image_clustering](https://github.com/geonlee0325/image_clustering)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
 [SimilarPictures](https://github.com/jaemin93/SimilarPictures)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
