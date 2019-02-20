@@ -21,7 +21,7 @@
 [react-calenpicker](https://github.com/azxca1731/react-calenpicker)|지정주제 : React Calendar|MIT|
 [react-datepicker](https://github.com/y0c/react-datepicker)|지정주제 : React Calendar|MIT|
 [data_structure_JS](https://github.com/sangw0804/data_structure_JS)|지정주제 : JS structures & visualization lib|MIT|
-DataStructure<br/> - [webpack](https://github.com/hongjisung/DataStructure)<br/> - [react](https://github.com/hongjisung/JS_DataStructure_Visualization) |지정주제 : JS structures & visualization lib|MIT|
+DataStructure<br/> - [libaray](https://github.com/hongjisung/DataStructure)<br/> - [visualization](https://github.com/hongjisung/JS_DataStructure_Visualization) |지정주제 : JS structures & visualization lib|MIT|
 
 
 
