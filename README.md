@@ -1,4 +1,3 @@
-
 # 결승전 수상작
 (공동수상-알파벳 순)
 
@@ -15,7 +14,7 @@
 ## 2019-6thD2CF-Image-Clustere / 장려상
 * 지정주제 : 이미지 유사도 측정하기<br/>
 * 라이선스 : Apache-2.0<br/>
-* 저장소 : https://github.com/hubaimaster/aws-interface
+* 저장소 : https://github.com/sunnys-lab/2019-6thD2CF-Image-Cluster
 
 ## MPSec / 장려상
 * MPTCP를 활용하여 네트워크 장애 상황에 효과적으로 대처가 가능한 고신뢰 네트워킹을 제공<br/>
