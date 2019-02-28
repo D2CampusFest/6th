@@ -10,7 +10,7 @@
 [boggler](https://github.com/rayleighChild/boggler)|Speech-to-Text 서비스를 이용해 사용자의 음성 데이터 혹은<br/> 파일에 대해 텍스트 데이터를 제공|MIT|
 [chain](https://github.com/tenkeyless/chain/)|확률론적 딥러닝|MIT
 [educhain](https://github.com/twodude/educhain)|교육용 블록체인|Apache-2.0|
-[iOS-Projects-with-ML-Models](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)|iOS에서 머신러닝 앱 배포-Core ML, ML Kit 사용 및 구조화)|MIT|
+[Awesome Machine Learning DEMOs with iOS](https://github.com/motlabs/awesome-ml-demos-with-ios)|iOS에서 머신러닝 데모 프로젝트 모음(with Awesome😎)|MIT|
 [mlfe](https://github.com/shi510/mlfe)|C++ 기반의 딥러닝 라이브러리|MIT|
 [MPSec](https://github.com/MPSec)|MPTCP를 활용하여 네트워크 장애 상황에 효과적으로<br/> 대처가 가능한 고신뢰 네트워킹을 제공|GPL-3.0|
 [soma](https://github.com/PLUS-POSTECH/soma)|보안 및 해킹 문제 관리도구|MIT/Apache-2.0|
