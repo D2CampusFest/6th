@@ -11,7 +11,7 @@
 * 라이선스 : Apache-2.0<br/>
 * 저장소 : https://github.com/hubaimaster/aws-interface
 
-## 2019-6thD2CF-Image-Clustere / 장려상
+## 2019-6thD2CF-Image-Cluster / 장려상
 * 지정주제 : 이미지 유사도 측정하기<br/>
 * 라이선스 : Apache-2.0<br/>
 * 저장소 : https://github.com/sunnys-lab/2019-6thD2CF-Image-Cluster
